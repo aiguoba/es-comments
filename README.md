@@ -14,17 +14,17 @@
 
 - vscode-fileheader
 
-  - User Settings
-    `"fileheader.tpl": "/_\r\n _ @Author: {author} \r\n _ @File: \r\n _ @Date: {createTime} \r\n _ @Last Modified by: {lastModifiedBy} \r\n _ @Last Modified time: {updateTime} \r\n \*/\r\n",`
+- User Settings
+  `"fileheader.tpl": "/_\r\n _ @Author: {author} \r\n _ @File: \r\n _ @Date: {createTime} \r\n _ @Last Modified by: {lastModifiedBy} \r\n _ @Last Modified time: {updateTime} \r\n \*/\r\n"`
 
-  ```js
-  /*
-  * @Author: Day
-  * @Date:   2018-08-28 11:50:29
-  * @Last Modified by: Day
-  * @Last Modified time: 2018-08-28 12:37:15
-  */
-  ```
+```js
+/*
+* @Author: Day
+* @Date:   2018-08-28 11:50:29
+* @Last Modified by: Day
+* @Last Modified time: 2018-08-28 12:38:12
+*/
+```
 
 ### 注释格式
 
