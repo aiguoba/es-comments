@@ -1,3 +1,33 @@
+# es-comments
+
+### IDE
+
+- vscode
+
+### 执行工具
+
+- Quokka.js
+
+- Polacode
+
+### 文件头插件
+
+- vscode-fileheader
+
+  - User Settings
+    `"fileheader.tpl": "/_\r\n _ @Author: {author} \r\n _ @File: \r\n _ @Date: {createTime} \r\n _ @Last Modified by: {lastModifiedBy} \r\n _ @Last Modified time: {updateTime} \r\n \*/\r\n",`
+
+  ```js
+  /*
+  * @Author: Day
+  * @Date:   2018-08-28 11:50:29
+  ```
+
+* @Last Modified by: Day
+* @Last Modified time: 2018-08-28 12:34:52
+  \*/
+
+````
 ### 注释格式
 
 ```js
@@ -20,4 +50,4 @@
 | 3. 注意点3
 |--------------------------------------------------
 */
-```
+````
